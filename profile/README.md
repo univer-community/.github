@@ -14,6 +14,7 @@ We build community-maintained plugins, adapters, and tooling that help teams ado
 
 - [`univer-community/cli`](https://github.com/univer-community/cli): An interactive scaffold for launching standalone `Univer` plugin projects with production-ready structure, configuration, and templates from day one.
 - [`univer-community/sheets-csv-import-export`](https://github.com/univer-community/sheets-csv-import-export): A `Univer Sheets` plugin for importing and exporting CSV data through facade APIs, with support for common import modes, charset options, and export as `FBlob`.
+- [`univer-community/sheets-formula-display`](https://github.com/univer-community/sheets-formula-display): A `Univer Sheets` plugin for toggling formula display so formula cells can render their expressions without changing persisted workbook data.
 - [`univer-community/ui-adapter-vue2`](https://github.com/univer-community/ui-adapter-vue2): A Vue 2 adapter that makes it possible to reuse existing Vue 2 components inside `Univer` UI surfaces such as sidebars and panels.
 
 ## Contributing
